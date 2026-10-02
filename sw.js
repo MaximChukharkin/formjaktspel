@@ -1,5 +1,5 @@
 // Formjakt service worker – caches the app so it works offline.
-const CACHE = "formjakt-202609301242";
+const CACHE = "formjakt-202610020920";
 const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png",
   "./icon-maskable-512.png", "./apple-touch-icon.png"];
 
